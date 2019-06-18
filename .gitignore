@@ -1,2 +1,2 @@
-ignore-.vscode/
-ignore-backjoon/.vscode/
+.vscode/
+backjoon/.vscode/
