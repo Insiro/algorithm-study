@@ -1,3 +1,9 @@
-.vscode/
-backjoon/.vscode/
 *.exe
+.vscode/
+*.bin
+test.*
+.gitignore
+*.7z
+input.txt
+*.pptx
+*.zip
