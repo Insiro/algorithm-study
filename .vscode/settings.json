@@ -1,4 +1,11 @@
 {
     "python.linting.pylintEnabled": true,
-    "python.pythonPath": "D:\\Program Files\\Python\\Python37\\python.exe"
+    "python.pythonPath": "D:\\Program Files\\Python\\Python37\\python.exe",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "random": "c",
+        "vector": "cpp",
+        "*.tcc": "cpp"
+    }
 }
