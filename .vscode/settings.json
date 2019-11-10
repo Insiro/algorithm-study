@@ -6,6 +6,7 @@
         "ostream": "cpp",
         "random": "c",
         "vector": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "stdio.h": "c"
     }
 }
