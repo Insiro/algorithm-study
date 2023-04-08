@@ -1,12 +1,18 @@
 {
-    "python.linting.pylintEnabled": true,
-    "files.associations": {
-        "iostream": "cpp",
-        "ostream": "cpp",
-        "random": "c",
-        "vector": "cpp",
-        "*.tcc": "cpp",
-        "stdio.h": "c"
-    },
-    "nuxt.isNuxtApp": false
+	"python.linting.pylintEnabled": true,
+	"files.associations": {
+		"iostream": "cpp",
+		"ostream": "cpp",
+		"random": "c",
+		"vector": "cpp",
+		"*.tcc": "cpp",
+		"stdio.h": "c"
+	},
+	"python.formatting.provider": "black",
+	"python.linting.pylintArgs": [
+		"--disable=C0111"
+	],
+	"editor.formatOnSave": true,
+	"editor.insertSpaces": false,
+	"files.eol": "\n",
 }

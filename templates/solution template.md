@@ -5,7 +5,7 @@ platform : Programmers | 백준 | leetcode
 url : https://
 date : {{date}}
 time : None
-state : pass | fail
+state : pass | fail | None
 ---
 # 문제
 
@@ -14,5 +14,13 @@ state : pass | fail
 ```
 
 ```
+
+
+#### testcase
+	```
+	```
+
+
+
 
 # 풀이
