@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solution List.md",
+                "file": "solutions/acmipc 햄버거최대 몇개드실수있나요.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solution List.md",
+                "file": "solutions/acmipc 햄버거최대 몇개드실수있나요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solution List.md",
+                "file": "solutions/acmipc 햄버거최대 몇개드실수있나요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solution List.md"
+                "file": "solutions/acmipc 햄버거최대 몇개드실수있나요.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "1d657aae71752799",
   "lastOpenFiles": [
-    "solutions/p과제 진행하기.md",
+    "27923.py.1b5e82ddbdfcd53969aa1cbd69c4932e.tmp",
+    "27923 copy.py.317ce7bc9d51a82a0d90bea6405af8b7.tmp",
+    "27923 copy.py",
     "Solution List.md",
-    "solutions/acmipc 햄최몇.md",
+    "solutions/p과제 진행하기.md",
+    "solutions/acmipc 햄버거최대 몇개드실수있나요.md",
     "solutions/acmipc아기상어.md",
     "Programmers/176962_hw.py.f6957a34857499c096b9a48783f7a3a2.tmp",
     "Programmers/176962_hw.py",
@@ -161,8 +164,6 @@
     "hw.py.f978afdd1bacf46d95c1f80f387fa976.tmp",
     "leet-code/pancake-sorting.py.87ef4a425474f62b249786364048f3aa.tmp",
     "backjoon/16236.py.eae544c8eeca5ed9911e50b583576295.tmp",
-    "27923.py.1b5e82ddbdfcd53969aa1cbd69c4932e.tmp",
-    "hw.py",
     "templates/solution template.md",
     "solutions/leetcode pancake sorting.md",
     "solutions/leetcode Pancake Sorting.md",

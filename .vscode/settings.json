@@ -13,6 +13,7 @@
 		"--disable=C0111"
 	],
 	"editor.formatOnSave": true,
-	"editor.insertSpaces": false,
 	"files.eol": "\n",
+	"editor.tabSize": 4,
+	"python.analysis.typeCheckingMode": "basic"
 }
