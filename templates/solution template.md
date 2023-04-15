@@ -10,15 +10,18 @@ state : pass | fail | None
 # 문제
 
 
+#### 입력
+
 # 코드
-```
+```python
 
 ```
 
 
 #### testcase
-	```
-	```
+```python
+
+```
 
 
 
