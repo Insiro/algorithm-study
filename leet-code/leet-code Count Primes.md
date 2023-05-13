@@ -1,8 +1,8 @@
 ---
 title : CountPrimes
-id : count primes
+id : 204
 platform : leetcode
-url : https://
+url : https://leetcode.com/problems/count-primes
 date : 2023-04-28
 time : None
 state : pass
