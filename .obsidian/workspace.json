@@ -11,11 +11,14 @@
             "id": "9d55ecdcce0afdde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "solutions/p12978_배달.md",
-                "mode": "source",
-                "source": false
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -64,6 +67,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "34751074b85c1ca9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "solutions/p12978_배달.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "solutions/p12978_배달.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "solutions/p12978_배달.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +154,14 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "9d55ecdcce0afdde",
+  "active": "49240bab0120da47",
   "lastOpenFiles": [
+    "무제 파일.canvas",
     "solutions/acicpc17404_RGB거리 2.md",
-    "solutions/acmicpc18866젊은날의생이여.md",
     "Solution List.md",
+    "solutions/acmicpc18866젊은날의생이여.md",
+    "solutions/p12978_배달.md",
+    "solutions/p92335소수 구하기.md",
     "templates/solution template.md",
     "Programmers/17404.py.b1afe1ccc82ab5c6bbbffa934f449675.tmp",
     "Programmers/17404v2.py.fdf26311ebfa747b408b59be60897b8b.tmp",
@@ -160,8 +170,6 @@
     "Programmers/17404v3.py",
     "Programmers/17404v2 copy.py",
     "Programmers/17404 copy.py",
-    "solutions/p92335소수 구하기.md",
-    "solutions/p12978_배달.md",
     "README.md",
     "Programmers/92335.py.79fbca7784264c626ddf989caa98fcf3.tmp",
     "Programmers/92335.py",
