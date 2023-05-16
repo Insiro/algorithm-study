@@ -8,3 +8,7 @@ input2.txt
 *.pptx
 *.zip
 __pycache__/
+.obsidian/*
+!.obsidian/*-plugins*
+!.obsidian/plugins
+!.obsidian/templates.json
