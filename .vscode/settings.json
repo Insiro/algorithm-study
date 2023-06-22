@@ -14,5 +14,6 @@
     "files.eol": "\n",
     "editor.tabSize": 4,
     "python.analysis.typeCheckingMode": "basic",
-    "github.copilot.enable": false
+    "github.copilot.enable": false,
+    "python.linting.mypyEnabled": false
 }
