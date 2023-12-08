@@ -1,5 +1,4 @@
 {
-    "python.linting.pylintEnabled": true,
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp",
@@ -8,12 +7,18 @@
         "*.tcc": "cpp",
         "stdio.h": "c"
     },
-    "python.formatting.provider": "black",
-    "python.linting.pylintArgs": ["--disable=C0111, C0103"],
-    "editor.formatOnSave": true,
-    "files.eol": "\n",
-    "editor.tabSize": 4,
+    "leetcode.workspaceFolder": "F:\12.Studyalgorithm-studyleet-code",
+    "leetcode.defaultLanguage": "python3",
+    "leetcode.hideSolved": true,
+
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
     "python.analysis.typeCheckingMode": "basic",
-    "github.copilot.enable": false,
-    "python.linting.mypyEnabled": false
+    "pylint.args": ["--disable=C0111, C0103"],
+    "python.linting.mypyEnabled": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "files.eol": "\n",
+    "github.copilot.enable": false
 }
