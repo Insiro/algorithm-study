@@ -1,5 +1,6 @@
 {
   "accentColor": "",
-  "baseFontSize": 19,
-  "cssTheme": "Catppuccin"
+  "baseFontSize": 15,
+  "cssTheme": "Catppuccin",
+  "translucency": true
 }

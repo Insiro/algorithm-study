@@ -1,8 +1,5 @@
 [
   "dataview",
-  "obsidian-git",
   "code-emitter",
-  "terminal",
-  "highlightr-plugin",
-  "cmenu-plugin"
+  "terminal"
 ]
