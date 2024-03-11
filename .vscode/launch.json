@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "algorithm-study_fd654b73"
+        },
+        {
+            "name": "(g++) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "D:/Program Files/MinGW/bin/gdb.exe"
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "gdb",
+            "request": "launch",
+            "name": "Debug",
+            "target": "${workspaceRoot}/target/debug/${workspaceFolderBasename}",
+            "cwd": "${workspaceRoot}",
+            "preLaunchTask": "build",
+            "terminal": "integrated"
+        }
+    ]
+}
